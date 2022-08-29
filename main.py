@@ -22,13 +22,13 @@ article.parse()
 article.nlp()
 print(article.summary)
 
-channel = '@hotcrypt0_news'
+channel = 'YourChannelName'
 
 import telebot
 token="YourToken"
 
 bot = telebot.TeleBot(token)
-aflink = 'https://omnil.ink/cryp_to'
+aflink = 'YourLink'
 
 first = True
 while True:
