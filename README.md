@@ -1,2 +1,2 @@
-# -Yandex.Cloud-tg-bot-
-Crypto news serverless telegram bot
+# Serverless telegram bot
+Hosting telegram bot with Yandex.Cloud Functions
